@@ -1,0 +1,12 @@
+.mainDiv {
+    display: flex;
+    width: 100vw;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.content {
+    background: #FAFAFA;
+    border-radius: 7px;
+    text-align: center;
+}
